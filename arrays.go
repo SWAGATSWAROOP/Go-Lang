@@ -32,4 +32,8 @@ func main() {
 	slice2 := make([]int32, 5, 20)    //This will create a slice of length 5 and capacity 8(optional) this helps in performance improve as reallocation is not needed
 	slice2 = append(slice2, slice...) //By default the capacity would be equal to the length of the slice if not provided
 	fmt.Println(slice2)
+
+	for i, v := range arr {
+		fmt.Printf("The index is %v and the value is %v \n", i, v)
+	}
 }
