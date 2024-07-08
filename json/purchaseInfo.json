@@ -1,0 +1,22 @@
+[
+  { "Name": "Laptop", "Price": 999.99, "Amount": 1 },
+  { "Name": "Mouse", "Price": 25.5, "Amount": 2 },
+  { "Name": "Keyboard", "Price": 45.0, "Amount": 1 },
+  { "Name": "Monitor", "Price": 150.75, "Amount": 2 },
+  { "Name": "Printer", "Price": 89.99, "Amount": 1 },
+  { "Name": "Desk", "Price": 199.99, "Amount": 1 },
+  { "Name": "Chair", "Price": 85.5, "Amount": 1 },
+  { "Name": "USB Cable", "Price": 10.0, "Amount": 5 },
+  { "Name": "External Hard Drive", "Price": 75.25, "Amount": 2 },
+  { "Name": "Webcam", "Price": 40.0, "Amount": 3 },
+  { "Name": "Headphones", "Price": 35.5, "Amount": 2 },
+  { "Name": "Microphone", "Price": 55.0, "Amount": 1 },
+  { "Name": "Graphics Card", "Price": 299.99, "Amount": 1 },
+  { "Name": "Power Supply", "Price": 65.0, "Amount": 1 },
+  { "Name": "Motherboard", "Price": 129.99, "Amount": 1 },
+  { "Name": "CPU", "Price": 239.99, "Amount": 1 },
+  { "Name": "RAM", "Price": 99.99, "Amount": 2 },
+  { "Name": "SSD", "Price": 119.99, "Amount": 1 },
+  { "Name": "Cooling Fan", "Price": 25.0, "Amount": 3 },
+  { "Name": "Speakers", "Price": 45.0, "Amount": 2 }
+]

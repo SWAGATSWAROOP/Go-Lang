@@ -1,0 +1,22 @@
+[
+  { "Name": "Alice", "Email": "alice@example.com" },
+  { "Name": "Bob", "Email": "bob@example.com" },
+  { "Name": "Charlie", "Email": "charlie@example.com" },
+  { "Name": "David", "Email": "david@example.com" },
+  { "Name": "Eve", "Email": "eve@example.com" },
+  { "Name": "Frank", "Email": "frank@example.com" },
+  { "Name": "Grace", "Email": "grace@example.com" },
+  { "Name": "Hannah", "Email": "hannah@example.com" },
+  { "Name": "Ivy", "Email": "ivy@example.com" },
+  { "Name": "Jack", "Email": "jack@example.com" },
+  { "Name": "Karen", "Email": "karen@example.com" },
+  { "Name": "Leo", "Email": "leo@example.com" },
+  { "Name": "Mona", "Email": "mona@example.com" },
+  { "Name": "Nina", "Email": "nina@example.com" },
+  { "Name": "Oscar", "Email": "oscar@example.com" },
+  { "Name": "Paul", "Email": "paul@example.com" },
+  { "Name": "Quinn", "Email": "quinn@example.com" },
+  { "Name": "Rita", "Email": "rita@example.com" },
+  { "Name": "Sam", "Email": "sam@example.com" },
+  { "Name": "Tina", "Email": "tina@example.com" }
+]
